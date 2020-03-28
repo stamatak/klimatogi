@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+	<head>
+		<title>Activities</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<!-- Fonts-->
+		<link rel="stylesheet" type="text/css" href="assets/fonts/fontawesome/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/fonts/themify-icons/themify-icons.css">
+		<!-- Vendors-->
+		<link rel="stylesheet" type="text/css" href="assets/vendors/bootstrap4/bootstrap-grid.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/vendors/magnific-popup/magnific-popup.min.css">
+		<link rel="stylesheet" type="text/css" href="assets/vendors/owl.carousel/owl.carousel.css">
+		<!-- App & fonts-->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i&amp;amp;subset=latin-ext">
+		<link rel="stylesheet" type="text/css" href="assets/css/main.css"><!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	
+	<body>
+	  <div class="page-wrap">
+	    
+	    <!-- header -->
+	    <header class="header">
+	      <div class="container">
+		<div class="header__logo"><a href="index.html"><img src="assets/img/logo.png" alt=""/></a></div>
+		<div class="header__toogleGroup">
+		  <div class="header__chooseLanguage">
+		    
+		    <!-- dropdown -->
+		    <div class="dropdown" data-init="dropdown"><a class="dropdown__toggle" href="javascript:void(0)">EN <i class="fa fa-angle-down" aria-hidden="true"></i></a>
+		      <div class="dropdown__content" data-position="right">
+			<ul class="list-style-none">
+			  <li><a href="#">EN</a></li>
+			  <li><a href="#">EL</a></li>													
+			</ul>
+		      </div>
+		    </div><!-- End / dropdown -->
+		    
+		  
+		  </div>
+		</div>
+					
+					<!-- consult-nav -->
+					<nav class="consult-nav">
+	    
+	    <!-- consult-menu -->
+	    <ul class="consult-menu">
+	      <li ><a href="index.html">Home</a>
+	      </li>
+	      
+	      <li><a href="governance.html">governance</a>
+	      </li>
+	      
+	      <li><a href="history.html">history</a>
+	      </li>
+	      
+	      <li><a href="projects.html">projects</a>
+		</li>
+	
+	      <li ><a href="events.html">events</a>		
+	      </li>	      	      
+	      
+	      <li><a href="infrastructure.html">infrastructure</a>		
+	      </li>
+
+	      <li class="current-menu-item"><a href="activities.html">activities</a>		
+	      </li>
+
+	      <li><a href="contact.html">contact</a>
+	      </li>
+
+	      
+
+	    </ul><!-- consult-menu -->
+	    	    	    
+	    <div class="navbar-toggle"><span></span><span></span><span></span></div>
+	  </nav>
+					<!-- End / consult-nav -->
+					
+	      </div>
+	    </header><!-- End / header -->
+			
+	    <section class="md-section">
+	     <div class="container">
+	       
+	      
+		
+		
+	
+	     <!-- post-03 -->
+		<div class="post-03">
+		  <div class="post-03__media"><img src="assets/img/hikeKorfi.jpg" style="width: auto; height: auto"></div>
+		  <div class="post-03__body">		    
+		    <h2 class="post-03__title">Listarokorfi Hike</h2>
+		    <span></span>
+		    <div class="post-03__description">Listarokorfi is the local summit of the Atserousia mountain range that is 
+		      located to the southeast of the village. It is an easy hike and it takes about 45 minutes to reach the peak.
+		      However, you will have to find your own way through bushes as there is no path. You can download a .gpx 
+		      track file <a href="assets/downloads/Listarokorfi.gpx">here</a>. 
+		    </div>
+		  </div>
+		</div><!-- End / post-03 -->
+
+	      
+	      
+	      
+
+		<div class="post-03 post-03__reverse">
+		  <div class="post-03__media"><img src="assets/img/bikePavlos.jpg" style="height: auto"></div>
+		  <div class="post-03__body">		    
+		    <h2 class="post-03__title">Mires - Listaros - Kouses bike tour</h2>
+		    <div class="post-03__description">
+		      <p>The route is about 20km long. You gain about 500 meters total ascent. 
+			The starting point of the route is about 4 km south of Mires town, next to the Fire Department. 
+		      </p>
+		      <p>You move west for about 1 km. Then, you move north towards the village Petrokefali, and then 
+			south towards the village Kouses. You do not enter Kouses, but you move towards the village Listaros. 
+			This part of the route is the hardest, since you have to climb up several hills. 
+			Near the village of Listaros, you are going downhill. You cross the village, and then you exit it 
+			through a narrow path on the west side of the village. After Listaros, the route moves towards the 
+			village Sivas. From Sivas to Kouses we follow the asphalt road (very few cars) and move 
+			towards Kouses and back to the starting point.</p>
+		      <p>Reproduced from <a href="https://mesarabikes.wordpress.com">Mesara Bikes</a> with permission of 
+			Pavlos Pavlidis.</p>
+		      <p>You can dowmload the GPX file <a href="assets/downloads/bikeTour">here</a>.
+		    </div>
+		  </div>
+		</div><!-- End / post-03 -->
+
+		
+		
+			
+
+		
+		
+	      </div>
+	      </section>
+			<!-- End / Content-->
+			
+			<!-- footer -->
+			<footer class="footer">
+				<div class="footer__main">
+					<div class="row"> <!-- row-eq-height"> -->
+						
+						<div class="col-sm-6 col-md-4 col-lg-3 col-xl-2 offset-0 offset-sm-0 offset-md-0 offset-lg-0 offset-xl-1 ">
+						  <div class="footer__item">						    
+						    <div class="social-01">
+						      <nav class="social-01__navSocial">
+							<a class="social-01__item" href="https://www.facebook.com/klimatogi"><i class="fa fa-facebook fa-3x"></i></a>					
+							<a class="social-01__item" href="https://www.twitter.com/klimatogi"><i class="fa fa-twitter fa-3x"></i></a>
+							<a class="social-01__item" href="https://www.instagram.com/klimatogi"><i class="fa fa-instagram fa-3x"></i></a>
+							<a class="social-01__item" href="mailto:klimatogi@gmail.com"><i class="fa fa-envelope fa-3x"></i></a>
+						      </nav>
+						    </div>
+						    
+
+						  </div>
+						</div>
+						  
+							  <!-- widget-text__widget -->
+							  
+						<div class="col-sm-6 col-md-4 col-lg-2 col-xl-2 ">
+							<div class="footer__item">
+									
+									<!-- widget-text__widget -->
+									<section class="widget-text__widget widget">
+										<div class="widget-text__content">
+											<ul>
+											  	
+												<li><b>Address:</b> P.O. Box 8 GR-70200 Listaros, Crete, Greece</li>
+												<li><b>Phone:</b> +30 6981056521</li>
+												
+											</ul>
+										</div>
+									</section><!-- End / widget-text__widget -->
+									
+							</div>
+						</div>											
+					</div>
+				</div>
+				<div class="footer__copyright">2020 &copy; Klimatogi. All rights Reserved.</div>
+			<!-- End / footer -->
+			
+		</div>
+		<!-- Vendors-->
+		<script type="text/javascript" src="assets/vendors/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/isotope-layout/isotope.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.countdown/jquery.countdown.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.countTo/jquery.countTo.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.countUp/jquery.countup.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.mb.ytplayer/jquery.mb.YTPlayer.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/masonry-layout/masonry.pkgd.js"></script>
+		<script type="text/javascript" src="assets/vendors/owl.carousel/owl.carousel.js"></script>
+		<script type="text/javascript" src="assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/menu/menu.min.js"></script>
+		<script type="text/javascript" src="assets/vendors/smoothscroll/SmoothScroll.min.js"></script>
+		<!-- App-->
+		<script type="text/javascript" src="assets/js/main.js"></script>
+	</body>
+</html>
