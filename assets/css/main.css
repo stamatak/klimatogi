@@ -4907,11 +4907,12 @@ Main components
   background: #0BA79D;  
   border-radius: 2px;
   padding: 1em;
+  font-size: 30px;
   .timeline-content-info {
     background: #2B343A;
     padding: 5px 10px;
     color: rgba(255,255,255,0.7);
-    font-size: 12px;
+    font-size: 16px;
     box-shadow:  inset 0 2px 0 rgba(0, 0, 0, 0.08);
     border-radius: 2px;
     i {
@@ -5005,7 +5006,7 @@ Main components
   }
   .cd-timeline-content::before {
     top: 24px;
-    left: 100%;
+    left: 100%;  
     border-color: transparent;
     border-left-color: #333C42;
   }
